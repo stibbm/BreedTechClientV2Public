@@ -1,38 +1,5 @@
 # Pages:
 
-## Horse Page:
-
-<img width="1792" alt="HorsesPage" src="https://github.com/stibbm/btclient8/assets/48364517/5d9965bc-2fff-4a7f-8f84-e6ef23257e02">
-
-## Tasks
-
-### Pages
-
-- [x] Login
-- [x] Action Types
-- [x] Horses
-- [x] Appointments
-- [x] Stalls
-- [x] Users
-
-### Create Forms
-
-- [x] Action Type
-- [x] Horse
-- [x] Appointment
-- [x] Stall
-- [ ] User
-
-### Tables
-
-- [x] Action Type
-- [x] Horse
-- [x] Appointment
-- [x] Stall
-- [x] User
-
-# Frontend V2 Images
-
 ## Horse Management
 
 ### Horses Page
@@ -108,6 +75,34 @@
 
 <img src="frontendv2-images%2FV2%2FLogin%2FLoginPageV2.png" width="500">
 
+
+
+## Tasks
+
+### Pages
+
+- [x] Login
+- [x] Action Types
+- [x] Horses
+- [x] Appointments
+- [x] Stalls
+- [x] Users
+
+### Create Forms
+
+- [x] Action Type
+- [x] Horse
+- [x] Appointment
+- [x] Stall
+- [ ] User
+
+### Tables
+
+- [x] Action Type
+- [x] Horse
+- [x] Appointment
+- [x] Stall
+- [x] User
 
 
 
