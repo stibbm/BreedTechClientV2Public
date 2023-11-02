@@ -1,4 +1,4 @@
-# Pages:
+# Pages (React):
 
 ## Horse Management
 
